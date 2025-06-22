@@ -26,3 +26,14 @@ A MERN stack web app that helps students **log their daily study topics**, **upl
 
 ## 🌱 Project Structure
 
+
+## 🖼️ Screenshots
+
+### Dashboard
+![Dashboard](./assets/image1.png)
+
+### Upload Solved Questions
+![Upload](./assets/image2.png)
+
+### Revision Reminder
+![Reminder](./assets/image3.png)
